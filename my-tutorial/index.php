@@ -26,7 +26,7 @@
 	<li>
 		<a href="jsx.php">JSX</a>
 		<ul>
-			<li><a href="jsx-attributes.com">JSX Attributes</a></li>
+			<li><a href="jsx-attributes.php">JSX Attributes</a></li>
 			<li><a href="">Expression in JSX</a></li>
 			<li><a href="">Children in JSX</a></li>
 		</ul>
