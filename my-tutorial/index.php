@@ -4,10 +4,10 @@
 		<strong>Prerequisites</strong>
 		<ul>
 			<li><a href="what-is-dom.php">What is DOM and DOM vs Virtual DOM</a></li>
-			<li><a href="https://www.w3schools.com/js/js_window.asp">BOM</a></li>
+			<li><a href="bom.php">BOM</a></li>
 			<li><a href="what-is-framework.php">What Is Framework</a></li>
 			<li><a href="framework-vs-library.php">Framework vs library</a></li>
-			<li><a href="framework-vs-library.php">NPM and commands</a></li>
+			<li><a href="npm-commands.php">NPM and commands</a></li>
 		</ul>
 	</li>
 	<li>
@@ -17,7 +17,7 @@
 			<li><a href="enviroment-setup.php">Enviroment setup</a></li>
 			<li><a href="how-reactjs-work-internally.php">How React work internally</a></li>
 			<li><a href="react-without-npm-npx.php">Adding react without npm, npx or webpack, like jquery</a></li>
-			<li><a href="react-without-npm-npx.php">Adding react with npm, npx or webpack</a></li>
+			<li><a href="react-with-npm-npx.php">Adding react with npm, npx or webpack</a></li>
 			<li><a href="development-vs-production.php">Development vs production</a></li>
 			<li><a href="folder-structure.php">Folder structure</a></li>
 			<li><a href="hello-world.php">Hello World Program</a></li>

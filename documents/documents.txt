@@ -1,25 +1,9 @@
 git, npm update package.json, and package.json.lock
-
-Edit link will not visible, admin bar will not show
-sale development time
-
 react enviroment variables
 https://www.newline.co/fullstack-react/articles/using-create-react-app-with-a-server/
 https://reactrouter.com/web/example/basic
 https://create-react-app.dev/docs/can-i-use-decorators
-
-
-
-
-without bootstrap
-next project should be based on only css grid
-comparison between wordpress backend and contentful
-
 ====================================================== react project folder structure ================================
-create utility folder, 
-
-======================
-
 import React, { useState, useEffect } from "react";
 import "./App.css";
 import axios from "axios";
@@ -112,10 +96,8 @@ function App() {
             </Container>
           )}
         </>)}
-
     </>
   )
-
 }
 App.propTypes = {
   limit: PropTypes.number,
