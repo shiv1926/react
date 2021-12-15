@@ -60,3 +60,7 @@ Closure
 Prototype
 promise async / await
 ==================
+
+
+https://www.freecodecamp.org/news/best-practices-for-security-of-your-react-js-application/
+
