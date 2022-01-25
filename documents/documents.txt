@@ -1,7 +1,6 @@
 git, npm update package.json, and package.json.lock
 react enviroment variables
 https://www.newline.co/fullstack-react/articles/using-create-react-app-with-a-server/
-https://reactrouter.com/web/example/basic
 https://create-react-app.dev/docs/can-i-use-decorators
 ====================================================== react project folder structure ================================
 import React, { useState, useEffect } from "react";

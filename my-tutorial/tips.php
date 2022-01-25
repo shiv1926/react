@@ -3,16 +3,12 @@
     <li>class is a reserve keyword in react js therefore instead of css "class" keyword we className.</li>
     <li>Camel case is used in react js</li>
 </ul>
-
 we always create component files in jsx format.
-
-javascript has a built in engine in browser, which run javascript code.
-synchronous programming :
-Asynchronous programming :
+react developer tool extenesion fro chrome and mozila
 
 
-Must known in javascript :
-Event loop
-Closure
-Prototype
-promise async / await
+authorization, authentication, oauth, csrf, xss, 
+
+
+Best UI frameworks for react
+ant design, material ui, tailwind, semantic ui, react bootstrap

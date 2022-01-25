@@ -1,9 +1,4 @@
-<?php 
-function es_url($file='')
-{
-    return 'http://localhost/javascripts/es6/'.$file;
-}
-?>
+<?php include('functions.php'); ?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -15,7 +10,7 @@ function es_url($file='')
 <body>
     <div class="container">
         <div class="home">
-            <a href="http://localhost/react_tutorial/my-tutorial">Home</a>
+            <a href="<?php echo es_url(); ?>">Home</a>
             <span style="display: inline-block; width: 50px;"></span>
-            <a href="http://localhost/react_tutorial/example">Example</a>
+            <a href="<?php echo es_url(); ?>/example">Example</a>
         </div>

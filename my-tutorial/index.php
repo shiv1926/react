@@ -1,18 +1,22 @@
 <?php include('header.php'); ?>
 <ul class="index">
 	<li>
-		<strong>Prerequisites</strong>
+		<h4>Prerequisites</h4>
 		<ul>
-			<li><a href="what-is-dom.php">What is DOM and DOM vs Virtual DOM</a></li>
+			<li><a href="what-is-dom.php">What is DOM</a></li>
+			<li><a href="virtual-dom.php">What is Virtual DOM</a></li>
+			<li><a href="dom-vs-virtual-dom.php">DOM VS Virtual DOM</a></li>
 			<li><a href="bom.php">BOM</a></li>
 			<li><a href="what-is-framework.php">What Is Framework</a></li>
 			<li><a href="framework-vs-library.php">Framework vs library</a></li>
 			<li><a href="npm-commands.php">NPM and commands</a></li>
+			<li><a href="database-for-react.php">Database for react</a></li>
 		</ul>
 	</li>
 	<li>
-		<strong>Introduction</strong>
+		<h4>Introduction</h4>
 		<ul>
+			<li><a href="ecosystem.php">Ecosystem</a></li>
 			<li><a href="what-is-react.php">What is react</a></li>
 			<li><a href="enviroment-setup.php">Enviroment setup</a></li>
 			<li><a href="how-reactjs-work-internally.php">How React work internally</a></li>
@@ -21,18 +25,20 @@
 			<li><a href="development-vs-production.php">Development vs production</a></li>
 			<li><a href="folder-structure.php">Folder structure</a></li>
 			<li><a href="hello-world.php">Hello World Program</a></li>
+			<li><a href="react-with-typescript.php">React with typescript</a></li>
 		</ul>
 	</li>
 	<li>
-		<a href="jsx.php">JSX</a>
+		<h4>JSX</h4>
 		<ul>
+			<li><a href="jsx.php">JSX Introduction</a></li>
 			<li><a href="jsx-attributes.php">JSX Attributes</a></li>
 			<li><a href="">Expression in JSX</a></li>
 			<li><a href="">Children in JSX</a></li>
 		</ul>
 	</li>
 	<li>
-		<strong>Styling and CSS</strong>
+		<h4>Styling and CSS</h4>
 		<ul>
 			<li><a href="bootstrap-in-react.php">Bootstrap in react</a></li>
 			<li><a href="deployment-react-app.php">React Sass</a></li>
@@ -42,16 +48,18 @@
 		</ul>
 	</li>
 	<li>
-		<a href="javascript:void(0);">Rendering</a>
+		<h4>Rendering</h4>
 		<ul>
+			<li><a href="javascript:void(0);">Introduction</a></li>
 			<li><a href="rendering-elements.php">Rendering elements in react</a></li>
 			<li><a href="rendering-multiple-elements.php">Rendering elements in react</a></li>
 			<li><a href="fragments.php">Fragments in React</a></li>
 		</ul>
 	</li>
 	<li>
-		<a href="components.php">Components</a>
+		<h4>Components</h4>
 		<ul>
+			<li><a href="components.php">Components</a></li>
 			<li><a href="components.php">Components Types</a></li>
 			<li><a href="functional-component-vs-class-component.php">functional component vs class component</a></li>
 			<li><a href="import-and-export.php">Import and export component</a></li>
@@ -61,20 +69,22 @@
 		</ul>
 	</li>
 	<li>
-		<a href="components.php">Props</a>
+		<h4>Props</h4>
 		<ul>
+			<a href="components.php">Introduction</a>
 			<li><a href="components.php">Props Validation</a></li>
 			<li><a href="components.php">Components</a></li>
+			<li><a href="proptypes.php">proptypes</a></li>
 		</ul>
 	</li>
 	<li>
-		<strong>List and keys</strong>
+		<h4>List and keys</h4>
 		<ul>
 			<li><a href="list-and-keys.php">List and keys</a></li>
 		</ul>
 	</li>
 	<li>
-		<strong>State and lifecycles</strong>
+		<h4>State and lifecycles</h4>
 		<ul>
 			<li><a href="states.php">State</a></li>
 			<li><a href="lifecycle.php">Lifecycle</a></li>
@@ -82,7 +92,7 @@
 		</ul>
 	</li>
 	<li>
-		<strong>Hooks</strong>
+		<h4>Hooks</h4>
 		<ul>
 			<li><a href="hooks.php">Hooks</a></li>
 			<li><a href="hooks-usestate.php">useState Hook</a></li>
@@ -93,7 +103,7 @@
 		</ul>
 	</li>
 	<li>
-		<strong>Routing</strong>
+		<h4>Routing</h4>
 		<ul>
 			<li><a href="constant-file.php">How to create constant file in React</a></li>
 			<li><a href="routing.php">What is routing</a></li>
@@ -103,14 +113,14 @@
 		</ul>
 	</li>
 	<li>
-		<strong>Ajax in react</strong>
+		<h4>Ajax in react</h4>
 		<ul>
-			<li><a target="_blank" href="<?php echo es_url('synchronous-and-asynchronous-programming.php'); ?>">Synchronous vs a asynchronous programming</a></li>
-			<li><a target="_blank" href="<?php echo es_url('callback.php'); ?>">Callback</a></li>
-			<li><a target="_blank" href="<?php echo es_url('callback-hell.php'); ?>">Callback Hell</a></li>
-			<li><a target="_blank" href="<?php echo es_url('promise.php'); ?>">Promise</a></li>
-			<li><a target="_blank" href="<?php echo es_url('async-await.php'); ?>">Asyc / Await</a></li>
-			<li><a target="_blank" href="<?php echo es_url('fetch.php'); ?>">Fetch API</a></li>
+			<li><a target="_blank" href="synchronous-and-asynchronous-programming.php">Synchronous vs a asynchronous programming</a></li>
+			<li><a target="_blank" href="callback.php">Callback</a></li>
+			<li><a target="_blank" href="callback-hell.php">Callback Hell</a></li>
+			<li><a target="_blank" href="promise.php">Promise</a></li>
+			<li><a target="_blank" href="async-await.php">Asyc / Await</a></li>
+			<li><a target="_blank" href="fetch.php">Fetch API</a></li>
 			<li><a href="event-loop.php">Event Loop</a></li>
 			<li><a href="ajax-introduction.php">Introduction</a></li>
 			<li><a href="ajax-introduction.php">Jquery Ajax</a></li>
@@ -118,40 +128,40 @@
 		</ul>
 	</li>
 	<li>
-		<strong>Server side rendering</strong>
+		<h4>Server side rendering</h4>
 		<ul>
 			<li><a href="states.php">State</a></li>
 		</ul>
 	</li>
 	<li>
-		<strong>updating head section</strong>
-		<ul>
-			<li><a href="states.php">State</a></li>
-			<li><a href="props-vs-state.php">Props vs states</a></li>
-		</ul>
-	</li>
-	<li>
-		<strong>Handling Events</strong>
+		<h4>updating head section</h4>
 		<ul>
 			<li><a href="states.php">State</a></li>
 			<li><a href="props-vs-state.php">Props vs states</a></li>
 		</ul>
 	</li>
 	<li>
-		<strong>Forms</strong>
+		<h4>Handling Events</h4>
+		<ul>
+			<li><a href="states.php">State</a></li>
+			<li><a href="props-vs-state.php">Props vs states</a></li>
+		</ul>
+	</li>
+	<li>
+		<h4>Forms</h4>
 		<ul>
 			<li><a href="forms.php">Form</a></li>
 			<li><a href="props-vs-state.php">Props vs states</a></li>
 		</ul>
 	</li>
 	<li>
-		<strong>Deployment</strong>
+		<h4>Deployment</h4>
 		<ul>
 			<li><a href="states.php">State</a></li>
 		</ul>
 	</li>
 	<li>
-		<strong>Integration with wordpress</strong>
+		<h4>Integration with wordpress</h4>
 		<ul>
 			<li><a href="integration-with-wordpress.php">Integration with wordpress</a></li>
 			<li><a href="what-is-rest-api.php">What is rest api</a></li>
@@ -161,30 +171,43 @@
 		</ul>
 	</li>
 	<li>
-		<strong>Redux</strong>
+		<h4>Redux</h4>
 		<ul>
 			<li><a href="redux.php">Redux</a></li>
 		</ul>
 	</li>
 	<li>
-		<strong>Strict Mode</strong>
+		<h4>Strict Mode</h4>
 		<ul>
 			<li><a href="strict-mode-javascript.php">Strict Mode in Javascript</a></li>
 			<li><a href="strict-mode-react.php">Strict Mode in React</a></li>
 		</ul>
 	</li>
 	<li>
-		<strong>Higher order functions</strong>
+		<h4>Higher order functions</h4>
 		<ul>
 			<li><a href="strict-mode-javascript.php">Strict Mode in Javascript</a></li>
 			<li><a href="strict-mode-react.php">Strict Mode in React</a></li>
+			react performance optization
+			styled component
+			react with typescript
+			<li><a href="react-libraries.php">React Libraries</a></li>
+		</ul>
+	</li>
+	<li>
+		<h4>React Tools</h4>
+		<ul>
+			<li><a href="https://codesandbox.io">Code Sandbox</a></li>
+			<li><a href="host.php">Hosting </a></li>
 		</ul>
 	</li>
 </ul>
-
-<li><a href="glossary.php">Glossary</a></li>
-
-kabab case to camle case and all case types
-
-<?php include('footer.php'); ?>
-php step by step react tutorial
+<?php 
+$links = array();
+$links[] = 'https://reactjs.org/docs/getting-started.html/';
+$links[] = 'https://daveceddia.com/';
+$links[] = 'https://www.w3schools.com/REACT/default.asp';
+$links[] = 'https://www.tutorialspoint.com/reactjs/index.htm';
+echo refrences($links);
+include('footer.php'); 
+?>

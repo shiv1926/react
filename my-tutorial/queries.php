@@ -9,6 +9,8 @@ how to use wordpress as headless cms
 
 core of react is that, create individual components and include them to create some functionality.
 
+What happens if you forget to close a tag?
+
 react is a javascript library to create user interfaces.
 it is not a framework.
 why learn react :
@@ -18,6 +20,7 @@ reusable code
 react is declarative
 how to use images in react
 
+what is middleware 
 
 how to include javascript in react.
 functions are first class citizen , read why
@@ -64,3 +67,6 @@ promise async / await
 
 https://www.freecodecamp.org/news/best-practices-for-security-of-your-react-js-application/
 
+=======
+<li><a href="glossary.php">Glossary</a></li>
+kabab case to camle case and all case types

@@ -1,0 +1,26 @@
+https://blog.bitsrc.io/tagged/react : serveral blog of react are good
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+========================================================
+https://scrimba.com/learn/learnreact : check list of tutorials, learn step by step, see index only, learn from video tutorial
+https://www.tutorialswebsite.com/react-js-tutorials-in-hindi/ : it is a good website for our tutorial website, we can create some section like on this website
+https://www.thapatechnical.com/ : this is a nepali guy, connect with it.
+
+video url hindi :
+geeky shows : https://www.youtube.com/watch?v=IcwiDCSWI-Y&list=PLbGui_ZYuhignjLLXTJWkRJKN-SgAqClL
+tutorialswebsite : https://www.youtube.com/watch?v=ItGluNVKWlk&list=PLUVqY59GNZQNTlOnGne0G7DXnmi7CeOtc
+thapa : https://www.youtube.com/watch?v=tiLWCNFzThE&list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ
+
+video url english :  
+for beginners by vishwas : https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3
+react and redux : https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG
+======================== ECMA SCRIPT ===========================================
+video tutorial : 
+Thapa : https://www.youtube.com/watch?v=JTcjSvFptEM&list=PLwGdqUZWnOp19VX-DM4oHtmWhDfWblFh-
+vishwas : https://www.youtube.com/watch?v=n3zrCxB8sj8&list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV
+https://www.youtube.com/watch?v=67bpxEX7DPg&list=PLgPJX9sVy92wO7ffJ3dPh9hsCsCk_ir30
+============= javascript =======================
+thapa : https://www.youtube.com/watch?v=VaBP6_pBOgM&list=PLwGdqUZWnOp0hSGwasCjbrWSPrEKqB_kz
+https://www.youtube.com/watch?v=Lgxgm-T9cgA&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf
+https://www.youtube.com/watch?v=ZlF6__wNXg8&list=PLynWqC6VC9KNTc9rkWl7rRV6gYWOhujhB
+=================================================
+search a video tutorial for developer tool bar

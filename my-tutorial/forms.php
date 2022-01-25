@@ -31,4 +31,13 @@
 The story around forms has continued to evolve. I remember using redux-form years ago, and how the app would freeze every time I pressed a key 😂 Looking back, “keep every ounce of state in Redux” was never really a good idea.
 
 Formik and react-hook-form seem to be the favorites right now, with hook-form gaining steam.
+
+
+redux form
+react-form
+react-final-form
+
+
+wes bos
+
 <?php include('footer.php'); ?>

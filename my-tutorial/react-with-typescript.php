@@ -12,8 +12,28 @@
 <li>Always start component names with a capital letter. React treats components starting with lowercase letters as DOM tags. For example, <?php echo htmlspecialchars('<div />'); ?> represents an HTML div tag, but <?php echo htmlspecialchars('<Welcome />'); ?> represents a user defined component and requires Welcome to be in scope.</li>
 <li>HTML Tags / DOM Tags knowns as default components</li>
 <li>Previously, we only encountered React elements that represent DOM tags:
-<li>functional component also known as stateless component, bacause they do not hold or manage states.</li>
 
+
+
+functional component also known as stateless component, bacause they do not hold or manage states.
+
+
+
+
+const element = <Welcome name="Sara" />;
+When React sees an element representing a user-defined component, it passes JSX attributes and children to this component as a single object. We call this object “props”.
+
+For example, this code renders “Hello, Sara” on the page:
+
+function Welcome(props) {
+return <h1>Hello, {props.name}</h1>;
+}
+
+const element = <Welcome name="Sara" />;
+ReactDOM.render(
+element,
+document.getElementById('root')
+);</li>
 
 there are two types of react component, functional component and class component
 functional component are much faster and simpler than class component. but class component have more features than functional component.

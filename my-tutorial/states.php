@@ -31,6 +31,9 @@
 
 what are state variables
 stateful component and stateless component
-Should I use a state management library like Redux or MobX?
+Should I use a state management library like Redux or MobX or recoil?
 Maybe.
+
+
+
 <?php include('footer.php'); ?>
